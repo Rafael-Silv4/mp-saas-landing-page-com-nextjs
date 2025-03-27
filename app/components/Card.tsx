@@ -1,7 +1,7 @@
 "use client";
 
 import { Button } from "@/components/ui/button";
-
+import Image from "next/image";
 import { useEffect, useState } from "react";
 import CardMobile from "../mobile/Card/page";
 
@@ -39,10 +39,10 @@ const Card = () => {
             </h1>
             <div className="flex gap-5">
               <div className="ml-[39px] mt-2 flex flex-col gap-4">
-                <img src="/vector.png" alt="Check" width={16} height={16} />
-                <img src="/vector.png" alt="Check" width={16} height={16} />
-                <img src="/vector.png" alt="Check" width={16} height={16} />
-                <img src="/vector.png" alt="Check" width={16} height={16} />
+                <Image src="/Vector.png" alt="Check" width={16} height={16} />
+                <Image src="/Vector.png" alt="Check" width={16} height={16} />
+                <Image src="/Vector.png" alt="Check" width={16} height={16} />
+                <Image src="/Vector.png" alt="Check" width={16} height={16} />
               </div>
               <div className="flex flex-col gap-2 text-[14px] text-[#6b7280]">
                 <p>1 ebook por mês</p>
