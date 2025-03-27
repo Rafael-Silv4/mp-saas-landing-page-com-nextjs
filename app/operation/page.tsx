@@ -48,8 +48,8 @@ const Operations = () => {
                   key={index}
                   src="/vector.png"
                   alt="Check"
-                  width={24}
-                  height={24}
+                  width={22}
+                  height={22}
                 />
               ))}
             </div>
