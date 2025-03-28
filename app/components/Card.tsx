@@ -40,28 +40,28 @@ const Card = () => {
             <div className="flex gap-5">
               <div className="ml-[39px] mt-2 flex flex-col gap-5">
                 <Image
-                  src="/Vector.png"
+                  src="/check.svg"
                   alt="Check"
                   width={100}
                   height={100}
                   className="h-[10px] w-[14px]  "
                 />
                 <Image
-                  src="/Vector.png"
+                  src="/check.svg"
                   alt="Check"
                   width={100}
                   height={100}
                   className="h-[10px] w-[14px]  "
                 />
                 <Image
-                  src="/Vector.png"
+                  src="/check.svg"
                   alt="Check"
                   width={100}
                   height={100}
                   className="h-[10px] w-[14px]  "
                 />
                 <Image
-                  src="/Vector.png"
+                  src="/check.svg"
                   alt="Check"
                   width={100}
                   height={100}

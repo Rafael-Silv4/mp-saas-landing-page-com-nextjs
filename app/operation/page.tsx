@@ -46,7 +46,7 @@ const Operations = () => {
               {[...Array(3)].map((_, index) => (
                 <Image
                   key={index}
-                  src="/Vector.png"
+                  src="/check.svg"
                   alt="Check"
                   width={100}
                   height={100}

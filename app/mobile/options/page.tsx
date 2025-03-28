@@ -42,21 +42,21 @@ const OptionsMobile = () => {
           </div>
           <div className=" flex flex-col gap-7">
             <Image
-              src="/Vector.png"
+              src="/check.svg"
               alt="Check"
               width={100}
               height={100}
               className="w-[16px] h-[11.94px] "
             />
             <Image
-              src="/Vector.png"
+              src="/check.svg"
               alt="Check"
               width={100}
               height={100}
               className="w-[16px] h-[11.94px] "
             />
             <Image
-              src="/Vector.png"
+              src="/check.svg"
               alt="Check"
               width={100}
               height={100}
