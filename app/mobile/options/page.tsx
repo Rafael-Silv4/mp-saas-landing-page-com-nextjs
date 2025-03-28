@@ -41,9 +41,27 @@ const OptionsMobile = () => {
             <p>Cancele quando quiser</p>
           </div>
           <div className=" flex flex-col gap-7">
-            <Image src="/vector.png" alt="Check" width={15} height={15} />
-            <Image src="/vector.png" alt="Check" width={15} height={15} />
-            <Image src="/vector.png" alt="Check" width={15} height={15} />
+            <Image
+              src="/Vector.png"
+              alt="Check"
+              width={100}
+              height={100}
+              className="w-[16px] h-[11.94px] "
+            />
+            <Image
+              src="/Vector.png"
+              alt="Check"
+              width={100}
+              height={100}
+              className="w-[16px] h-[11.94px] "
+            />
+            <Image
+              src="/Vector.png"
+              alt="Check"
+              width={100}
+              height={100}
+              className="w-[16px] h-[11.94px] "
+            />
           </div>
         </div>
       </div>

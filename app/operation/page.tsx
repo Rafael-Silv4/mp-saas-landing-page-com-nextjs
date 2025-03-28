@@ -46,10 +46,11 @@ const Operations = () => {
               {[...Array(3)].map((_, index) => (
                 <Image
                   key={index}
-                  src="/ok.png"
+                  src="/Vector.png"
                   alt="Check"
-                  width={22}
-                  height={22}
+                  width={100}
+                  height={100}
+                  className="w-[21.15px] h-[15.78px] "
                 />
               ))}
             </div>

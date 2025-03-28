@@ -38,11 +38,35 @@ const Card = () => {
               </span>
             </h1>
             <div className="flex gap-5">
-              <div className="ml-[39px] mt-2 flex flex-col gap-4">
-                <Image src="/ok.png" alt="Check" width={17} height={17} />
-                <Image src="/ok.png" alt="Check" width={17} height={17} />
-                <Image src="/ok.png" alt="Check" width={17} height={17} />
-                <Image src="/ok.png" alt="Check" width={17} height={17} />
+              <div className="ml-[39px] mt-2 flex flex-col gap-5">
+                <Image
+                  src="/Vector.png"
+                  alt="Check"
+                  width={100}
+                  height={100}
+                  className="h-[10px] w-[14px]  "
+                />
+                <Image
+                  src="/Vector.png"
+                  alt="Check"
+                  width={100}
+                  height={100}
+                  className="h-[10px] w-[14px]  "
+                />
+                <Image
+                  src="/Vector.png"
+                  alt="Check"
+                  width={100}
+                  height={100}
+                  className="h-[10px] w-[14px]  "
+                />
+                <Image
+                  src="/Vector.png"
+                  alt="Check"
+                  width={100}
+                  height={100}
+                  className="h-[10px] w-[14px]  "
+                />
               </div>
               <div className="flex flex-col gap-2 text-[14px] text-[#6b7280]">
                 <p>1 ebook por mês</p>
